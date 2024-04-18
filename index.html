@@ -49,11 +49,11 @@
                 <!-- /immagine -->
                 <div class="my-thumbnails position-relative">
                   <!-- prev -->
-                  <div class="my-previous position-absolute">
+                  <div @click="activeIndex > 0 ? activeIndex-- : activeIndex = images.length -1" class="my-previous position-absolute">
                     <span class="my-prev-hook"></span>
                   </div>
                   <!-- next -->
-                  <div class="my-next position-absolute">
+                  <div @click="activeIndex === images.length - 1 ? activeIndex = 0 : activeIndex++" class="my-next position-absolute">
                     <span class="my-next-hook"></span>
                   </div>
                   <!-- immagini interne -->
