@@ -2,7 +2,7 @@ Partendo dal markup della versione svolta in js plain, rifare lo slider ma quest
 
 1. Milestone 1:
 
-- [] Nel markup allegato rimuoviamo i contenuti statici e usiamo l’array di oggetti letterali per popolare dinamicamente il carosello.
+- [x] Nel markup allegato rimuoviamo i contenuti statici e usiamo l’array di oggetti letterali per popolare dinamicamente il carosello.
 
 - [] Al click dell'utente sulle frecce verso sinistra o destra, l'immagine attiva con i relativi titolo e testo diventerà visibile.
 
