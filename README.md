@@ -11,11 +11,11 @@ Partendo dal markup della versione svolta in js plain, rifare lo slider ma quest
 
 - BONUS 0:
 
-- [] Aggiungere le thumbnails (sottoforma di miniatura).
+- [x] Aggiungere le thumbnails (sottoforma di miniatura).
 
 - BONUS 1
 
-- [ ] Al click attivare l’immagine corrispondente.
+- [x] Al click attivare l’immagine corrispondente.
 
 - BONUS 2:
 
